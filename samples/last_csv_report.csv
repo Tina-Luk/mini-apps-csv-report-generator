@@ -1,0 +1,7 @@
+firstName,lastName,county,city,role,sales,Id,parentId
+Joshie,Wyattson,San Mateo,San Mateo,Broker,1000000,8
+Smitty,Won,San Mateo,Redwood City,Sales Person,4800000,10,9
+Allen,Price,San Mateo,Burlingame,Sales Person,2500000,11,9
+Beth,Johnson,San Francisco,San Francisco,Broker/Sales Person,7500000,12,8
+Kayla,Johnson,San Francisco,San Francisco,Broker/Sales Person,7500000,13,12
+Sam,Johnson,San Francisco,San Francisco,Broker/Sales Person,7500000,14,8
